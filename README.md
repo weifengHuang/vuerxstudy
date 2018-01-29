@@ -1,21 +1,13 @@
 # vuerxstudy
 
-> A Vue.js project
+> 使用rx.js，结合vue-rx模拟电梯调度
 
 ## Build Setup
 
 ``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
+npm isntall 
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
+进入 http://localhost:3009/#/elevator 即可模拟电梯调度
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+ 
